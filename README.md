@@ -20,7 +20,7 @@ To complete this activity we will be achieving the following tasks:
 
 ![](Images/screenshot_customers_table.png)
 
-**PRODUCTS DATA TABLE *
+**PRODUCTS DATA TABLE **
 
 *Data: product_id, product_title*
 
@@ -30,7 +30,7 @@ To complete this activity we will be achieving the following tasks:
 
 *Data: review_id, customer_id, product_id, product_parent, review_date*
 
-![](Images/screenshot_review_id_table - CSV.png)
+![](Images/screenshot_review_id_table-CSV.png)
 
 **VINE DATA TABLE**
 
