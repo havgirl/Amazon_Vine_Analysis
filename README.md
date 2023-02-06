@@ -61,6 +61,6 @@ Q3 - What percentage of Vine reviews were 5 stars? What percentage of non-Vine r
 
 A3 - 52.4% of Vine reviews were 5 stars. 57.8% of non-Vine reviews were 5 stars.
 
-In summary, there does not appear to be a correlation to achieving better reviews vis Vine members, as both yielded a similar % of 5 star ratings, and the % of Vine reviews were in fact lower than the % of 5 star reviews given by non-Vine members.  To continue analyzing this data, we might also consider using the 4 Star reviews to see if there is any major transgression from the above results.
+In summary, there does not appear to be a correlation to achieving better reviews via Vine members, as both yielded a similar % of 5 star ratings, and the % of Vine reviews were in fact lower than the % of 5 star reviews given by non-Vine members.  To continue analyzing this data, we might also consider using the 4 Star reviews to see if there is any major transgression from the above results.
 
 
