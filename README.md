@@ -14,25 +14,25 @@ To complete this activity we will be achieving the following tasks:
 
 ### Deliverable 1: Results
 
-**Customer data table**
+**CUSTOMER DATA TABLE**
 
 *Data: customer_id, customer_count*
 
 ![](Images/screenshot_customers_table.png)
 
-**Products data table**
+**PRODUCTS DATA TABLE *
 
 *Data: product_id, product_title*
 
 ![](Images/screenshot_products_table.png)
 
-**Review id data table**
+**REVIEW ID DATA TABLE**
 
 *Data: review_id, customer_id, product_id, product_parent, review_date*
 
 ![](Images/screenshot_review_id_table - CSV.png)
 
-**Vine data table**
+**VINE DATA TABLE**
 
 *Data: review_id, star_rating, helpful_votes, total_votes, vine, verified_purchase*
 
